@@ -1,4 +1,4 @@
-[![MasterHead](https://lemonyblog.com/wp-content/uploads/2020/12/Data-Science-and-Analytics-scaled.jpeg
+![MasterHead](https://lemonyblog.com/wp-content/uploads/2020/12/Data-Science-and-Analytics-scaled.jpeg
 )
 <h1 align="center">Hi 👋, I'm Hitesh nawin</h1>
 <h3 align="center">An enthusiastic data analyst with a strong focus on insights and analysis</h3>
